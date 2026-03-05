@@ -1,0 +1,5 @@
+{
+  "name": "Lunar Leap Year Explorer",
+  "description": "A tool to query and explore Chinese Lunar Calendar leap years and leap months.",
+  "requestFramePermissions": []
+}
